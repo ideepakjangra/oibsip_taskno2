@@ -1,0 +1,72 @@
+.intro img{
+    float: left;
+    width: 500px;
+    height: 1010px;
+    position: absolute;
+}
+
+.intro p{
+    position: relative;
+    font-size: 30px;
+    left: 550px;
+    
+}
+
+.ed img{
+    position: relative;
+    left: 550px;
+    width: 800px;
+    height: 350px;
+}
+
+.ed p{
+    font-size: 25px;
+    margin-left: 550px;
+}
+
+.training {
+
+}
+.training ul{
+    font-size: 25px;
+}
+.training h2{
+    font-size: 30px;
+text-decoration: underline;
+}
+
+.hobbies h2{
+    font-size: 30px;
+text-decoration: underline;
+
+}
+
+.hobbies ul{
+    font-size: 25px;
+    color: white;
+}
+
+.hobbies a{
+    font-size: 27px;
+    color: white;
+
+}
+
+.intro{
+    background-color: #7f4718;
+    color: azure;
+
+}
+.ed{
+background-color: #8b7f74;
+color: black; 
+}
+.training{
+    background-color: #d2c2ab;
+
+}
+.hobbies{
+    background-color: #503927;
+    color: white;
+
+}
